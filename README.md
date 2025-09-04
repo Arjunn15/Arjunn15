@@ -1,88 +1,82 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Arjun%20Chauhan&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,30&height=300&section=header&text=Arjun%20Chauhan&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn)
 
 </div>
 
-<!-- INTRO -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjun!;Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+%26+AI+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;Open-Source+Contributor+%F0%9F%92%9A" alt="Typing SVG" />
-</h2>
+## 👋 Hi there, I'm **Arjun Chauhan**
+
+💡 Passionate **Developer** & **AI Enthusiast** with a strong background in **full-stack development**, **machine learning**, and **software architecture**.  
+🚀 I love building **scalable, real-world solutions**, contributing to **open-source projects**, and exploring **cutting-edge AI/ML technologies**.
+
+---
+
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-💡 I love building scalable apps, exploring emerging AI tech, and turning ideas into impactful projects.  
-🌱 Currently diving deep into <b>Agentic AI</b>, <b>LLMs</b>, and <b>Next-Gen Web Development</b>.  
-⚡ Always looking for exciting collaborations and challenging problems to solve!
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
 </p>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,flask,nodejs,express,mysql,git,pytorch,tensorflow,sklearn,docker,linux&perline=8" />
+![](https://nirzak-streak-stats.vercel.app/?user=ArjunChauhan17&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=ArjunChauhan17&show_icons=true&theme=dark&hide_border=false&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunChauhan17&layout=compact&theme=dark&hide_border=false)
 
 </p>
 
 ---
 
-## 📊 My GitHub Universe
+## 🏆 Achievements & Highlights
 
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArjunChauhan17&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunChauhan17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunChauhan17&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Milestones & Highlights
-
-- 🚀 **Built 5+ AI/ML Projects** — NLP Chatbots, RAG Pipelines, Agentic AI Workflows  
-- 🛠 **Full-Stack Projects** with React, Node.js, and MongoDB  
-- 📚 **Mentored peers** in AI/ML & organized technical workshops  
-- 💡 Solved **500+ coding problems** on LeetCode / HackerRank
+- 🧠 Built projects in **NLP, RAG, Agentic AI, and ML**
+- 🛠 Developed **full-stack applications** using React + Node.js + MongoDB
+- 📚 Mentored peers in AI/ML & contributed to technical workshops
+- 🎯 Solved 500+ DSA problems on LeetCode & HackerRank
 
 ---
 
 ## 💻 LeetCode Stats
 <p align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/ArjunChauhan17?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArjunChauhan17?ext=heatmap)
 
-</p>
-
----
-
-## 🎨 Fun Zone
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArjunChauhan17/ArjunChauhan17/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-
-<p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/arjun-chauhan-50900b249"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:chauhanarjun177@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 <div align="center">
   
-✨ *Crafted with curiosity & caffeine by Arjun Chauhan* ☕  
+### 🐍 Watch My Contributions Get Eaten!
+![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-chauhan-50900b249)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chauhanarjun177@gmail.com)
+
+---
+<!-- Created with ❤️ by Arjun Chauhan -->
