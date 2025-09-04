@@ -1,9 +1,32 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Arjun%20Chauhan&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+<h1>
+  <span style="
+    background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00ab, #ff0000);
+    background-size: 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rgb-glow 8s linear infinite;
+    font-size: 70px;
+    font-weight: bold;
+    display: inline-block;">
+    Arjun Chauhan
+  </span>
+</h1>
+
+<p>🚀 AI | Full-Stack Developer | Tech Explorer</p>
 
 </div>
+
+<style>
+@keyframes rgb-glow {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 100% 50%; }
+}
+</style>
+
+---
 
 <!-- INTRO -->
 <h2 align="center">
@@ -21,12 +44,28 @@
 ## 🛠️ My Tech Arsenal
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,flask,nodejs,express,mysql,git,pytorch,tensorflow,sklearn,docker,linux&perline=8" />
-
 </p>
 
 ---
+
+## 📊 My GitHub Universe  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunn15&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunn15&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+## 🎉 Fun Zone  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+</p>
+
+---
+
 ## 📬 Connect With Me
 
 <p align="center">
