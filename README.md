@@ -33,9 +33,9 @@
 <div align="center">
 
 <!-- 🔴 REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL GITHUB USERNAME -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arjunn15&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunn15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunn15&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -44,7 +44,7 @@
 ## 💻 LeetCode Stats
 <p align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arjunn15E?theme=dark&ext=heatmap)
 
 </p>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/Arjunn15/Arjunn15/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 
 <p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
