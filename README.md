@@ -28,14 +28,11 @@
 
 ---
 
-## 🎨 Fun Zone
+### 🎨 Fun Zone  
 
-<div align="center">
-<p>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
-
-</div>
 
 ---
 
