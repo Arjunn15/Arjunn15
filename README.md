@@ -1,9 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Arjun%20Chauhan&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+<!-- RGB Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,45,200,300&height=280&section=header&text=🌈%20Arjun%20Chauhan%20🌈&fontSize=80&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=blinking" />
 
 </div>
+
 
 <!-- INTRO -->
 <h2 align="center">
@@ -28,34 +30,9 @@
 
 ---
 
-## 📊 My GitHub Universe
-
-<div align="center">
-
-<!-- 🔴 REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL GITHUB USERNAME -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arjunn15&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunn15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunn15&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💻 LeetCode Stats
-<p align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/arjunn15E?theme=dark&ext=heatmap)
-
-</p>
-
----
-
 ## 🎨 Fun Zone
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Arjunn15/Arjunn15/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-
 <p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
 </p>
