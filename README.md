@@ -32,27 +32,19 @@
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ArjunChauhan17&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunChauhan17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunChauhan17&layout=compact&theme=tokyonight&hide_border=true)
+<!-- 🔴 REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL GITHUB USERNAME -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Milestones & Highlights
-
-- 🚀 **Built 5+ AI/ML Projects** — NLP Chatbots, RAG Pipelines, Agentic AI Workflows  
-- 🛠 **Full-Stack Projects** with React, Node.js, and MongoDB  
-- 📚 **Mentored peers** in AI/ML & organized technical workshops  
-- 💡 Solved **500+ coding problems** on LeetCode / HackerRank
 
 ---
 
 ## 💻 LeetCode Stats
 <p align="center">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/ArjunChauhan17?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
 
 </p>
 
@@ -62,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArjunChauhan17/ArjunChauhan17/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 
 <p>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
@@ -78,11 +70,3 @@
 <a href="https://www.linkedin.com/in/arjun-chauhan-50900b249"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:chauhanarjun177@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
-
-<div align="center">
-  
-✨ *Crafted with curiosity & caffeine by Arjun Chauhan* ☕  
-
-</div>
