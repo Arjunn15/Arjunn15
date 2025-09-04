@@ -1,9 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Arjun%20Chauhan&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F31,100:444466&height=280&section=header&text=Arjun%20Chauhan&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=fadeIn" />
 
 </div>
+
 
 <!-- INTRO -->
 <h2 align="center">
