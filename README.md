@@ -1,11 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<!-- RGB Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,16,45,200,300&height=280&section=header&text=🌈%20Arjun%20Chauhan%20🌈&fontSize=80&fontAlign=50&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=60&animation=blinking" />
+<!-- Animated Header with Gradient & Lights -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12,22,45&height=280&section=header&text=✨%20Arjun%20Chauhan%20✨&fontSize=80&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20|%20Full-Stack%20Developer%20|%20Tech%20Explorer&descAlign=50&descAlignY=60&animation=twinkling" />
 
 </div>
-
 
 <!-- INTRO -->
 <h2 align="center">
